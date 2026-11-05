@@ -27,8 +27,6 @@ https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 #EXTINF:-1 tvg-id="Band.br@SD",Band (720p)
 http://170.84.165.204/BAND_HD/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD",Band Sports (1080p)
-https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="BemMelhor.br@SD",Bem Melhor (720p)
 https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playlist.m3u8
 #EXTINF:-1 tvg-id="Blitstv.br@SD",Blitstv
