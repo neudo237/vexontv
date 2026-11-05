@@ -1,0 +1,175 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda Nova Chance HD" tvg-logo="https://i.imgur.com/FuRKLSq.png" group-title="Premiere",A Fazenda Nova Chance HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/4776.ts
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda Nova Chance (Apenas Brasil)" tvg-logo="https://i.imgur.com/FuRKLSq.png" group-title="Premiere",A Fazenda Nova Chance (Apenas Brasil)
+https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_480_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda Nova Chance HD Alternativo (Apenas Brasil)" tvg-logo="https://i.imgur.com/FuRKLSq.png" group-title="Premiere",A Fazenda Nova Chance HD Alternativo (Apenas Brasil)
+https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Fazenda Nova Chance Alternativo (Apenas Brasil)" tvg-logo="https://i.imgur.com/FuRKLSq.png" group-title="Premiere",A Fazenda Nova Chance Alternativo (Apenas Brasil)
+https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_360_av-p.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo RJ HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/170.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo RJ
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1448.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD Alternativo" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo RJ HD Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1818.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ Alternativo" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo RJ Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2059.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo SP HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1676.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo SP
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1493.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP Alternativo" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo SP Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1978.ts
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo Brasilia
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1446.ts
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia Alternativo" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo Brasilia Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2062.ts
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo Minas HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/3492.ts
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo Minas" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo Minas
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1443.ts
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas Alternativo" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo Minas Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/3491.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Nordeste HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo Nordeste HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1677.ts
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="RBS TV - Globo RS" tvg-logo="https://i.imgur.com/ZePlyYX.png" group-title="Rede Globo",RBS TV - Globo RS
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/43.ts
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="RBS TV - Globo RS Alternativo" tvg-logo="https://i.imgur.com/ZePlyYX.png" group-title="Rede Globo",RBS TV - Globo RS Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2033.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV Gazeta HD - Globo ES" tvg-logo="https://i.imgur.com/YmM8bYA.png" group-title="Rede Globo",TV Gazeta HD - Globo ES
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1765.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="EPTV Campinas - Globo SP" tvg-logo="https://i.imgur.com/W4R9NhG.png" group-title="Rede Globo",EPTV Campinas - Globo SP
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1662.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV Tem Bauru - Globo SP" tvg-logo="https://i.imgur.com/wjkOkAw.png" group-title="Rede Globo",TV Tem Bauru - Globo SP
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1764.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV Tem Bauru - Globo SP Alternativo" tvg-logo="https://i.imgur.com/wjkOkAw.png" group-title="Rede Globo",TV Tem Bauru - Globo SP Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1444.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV Tem Sorocaba - Globo SP" tvg-logo="https://i.imgur.com/wjkOkAw.png" group-title="Rede Globo",TV Tem Sorocaba - Globo SP
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1447.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV Bahia - Globo BA" tvg-logo="https://i.imgur.com/yYKlOjH.png" group-title="Rede Globo",TV Bahia - Globo BA
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1767.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV Anhanguera - Globo GO" tvg-logo="https://i.imgur.com/YkWjyLw.png" group-title="Rede Globo",TV Anhanguera - Globo GO
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1445.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV Anhanguera - Globo GO Alternativo" tvg-logo="https://i.imgur.com/YkWjyLw.png" group-title="Rede Globo",TV Anhanguera - Globo GO Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/3490.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV Liberal - Globo PA" tvg-logo="https://i.imgur.com/FBUxkQE.png" group-title="Rede Globo",TV Liberal - Globo PA
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1664.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="TV Liberal  - Globo PA Alternativo" tvg-logo="https://i.imgur.com/FBUxkQE.png" group-title="Rede Globo",TV Liberal  - Globo PA Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2010.ts
+#EXTINF:-1 tvg-id="Canal TV Globo Internacional" tvg-name="Globo Internacional" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo Internacional
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/592.ts
+#EXTINF:-1 tvg-id="TVGloboPortugal.pt" tvg-name="Globo Portugal" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo Portugal
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/448.ts
+#EXTINF:-1 tvg-id="TVGloboPortugal.pt" tvg-name="Globo Portugal Alternativo" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo Portugal Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2061.ts
+#EXTINF:-1 tvg-id="GloboPremium.pt" tvg-name="Globo Portugal Premium" tvg-logo="https://i.imgur.com/NYgeGoO.png" group-title="Rede Globo",Globo Portugal Premium
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/449.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band HD" tvg-logo="https://i.imgur.com/rDtkGvf.png" group-title="Canais Abertos",Band HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/193.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://i.imgur.com/CzBgspt.png" group-title="Canais Abertos",Band
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/124.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band HD Alternativo" tvg-logo="https://i.imgur.com/rDtkGvf.png" group-title="Canais Abertos",Band HD Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1816.ts
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band Alternativo" tvg-logo="https://i.imgur.com/CzBgspt.png" group-title="Canais Abertos",Band Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2083.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/Wl5nvKp.png" group-title="Canais Abertos",SBT HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/147.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/Wl5nvKp.png" group-title="Canais Abertos",SBT
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/36.ts
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT Alternativo" tvg-logo="https://i.imgur.com/Wl5nvKp.png" group-title="Canais Abertos",SBT Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2027.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RecordTV HD" tvg-logo="https://i.imgur.com/BpBs3ZF.png" group-title="Canais Abertos",RecordTV HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/149.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/BpBs3ZF.png" group-title="Canais Abertos",RecordTV
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/41.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RecordTV HD Alternativo" tvg-logo="https://i.imgur.com/BpBs3ZF.png" group-title="Canais Abertos",RecordTV HD Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/3494.ts
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RecordTV Alternativo" tvg-logo="https://i.imgur.com/BpBs3ZF.png" group-title="Canais Abertos",RecordTV Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2030.ts
+#EXTINF:-1 tvg-id="" tvg-name="RecordTV USA" tvg-logo="https://i.imgur.com/BpBs3ZF.png" group-title="Canais Abertos",RecordTV USA
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/3493.ts
+#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="RecordTV HD Portugal" tvg-logo="https://i.imgur.com/BpBs3ZF.png" group-title="Canais Abertos",RecordTV HD Portugal
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1124.ts
+#EXTINF:-1 tvg-id="tvrecord.pt" tvg-name="RecordTV Portugal" tvg-logo="https://i.imgur.com/BpBs3ZF.png" group-title="Canais Abertos",RecordTV Portugal
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2029.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV! HD" tvg-logo="https://i.imgur.com/8pIoHeV.png" group-title="Canais Abertos",RedeTV! HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/148.ts
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/8pIoHeV.png" group-title="Canais Abertos",RedeTV!
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/39.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV! Alternativo" tvg-logo="https://i.imgur.com/8pIoHeV.png" group-title="Canais Abertos",RedeTV! Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1954.ts
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="https://i.imgur.com/vdNSOEq.png" group-title="Canais Abertos",Rede Brasil
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/40.ts
+#EXTINF:-1 tvg-id="Redebrasil.br" tvg-name="Rede Brasil Alternativo" tvg-logo="https://i.imgur.com/vdNSOEq.png" group-title="Canais Abertos",Rede Brasil Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2031.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV Cultura HD" tvg-logo="https://i.imgur.com/HsTKIrZ.png" group-title="Canais Abertos",TV Cultura HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/564.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV Cultura" tvg-logo="https://i.imgur.com/HsTKIrZ.png" group-title="Canais Abertos",TV Cultura
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/8.ts
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV Cultura HD Alternativo" tvg-logo="https://i.imgur.com/HsTKIrZ.png" group-title="Canais Abertos",TV Cultura HD Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1766.ts
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta HD" tvg-logo="https://i.imgur.com/UOFLJYt.png" group-title="Canais Abertos",TV Gazeta HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/570.ts
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="https://i.imgur.com/wuunLnX.png" group-title="Canais Abertos",Futura
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/91.ts
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura Alternativo" tvg-logo="https://i.imgur.com/wuunLnX.png" group-title="Canais Abertos",Futura Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2064.ts
+#EXTINF:-1 tvg-id="Tvescola.br" tvg-name="TV Escola HD" tvg-logo="https://i.imgur.com/85lGo2P.png" group-title="Canais Abertos",TV Escola HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/565.ts
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="https://i.imgur.com/Xo4w5I2.png" group-title="Canais Abertos",TV Brasil
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/9.ts
+#EXTINF:-1 tvg-id="RedeFami­lia.br" tvg-name="Rede Família HD" tvg-logo="https://i.imgur.com/qEEoiNT.png" group-title="Canais Abertos",Rede Família HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/569.ts
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="https://i.imgur.com/4ywlvs4.png" group-title="Canais Abertos",Terra Viva
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/16.ts
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="https://i.imgur.com/sUMUTRz.png" group-title="Canais Abertos",Canal Rural
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/119.ts
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" tvg-logo="https://i.imgur.com/N0PsWxP.png" group-title="Canais Abertos",Canal do Boi
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/566.ts
+#EXTINF:-1 tvg-id="" tvg-name="Agro Canal" tvg-logo="https://i.imgur.com/jVnIYXy.png" group-title="Canais Abertos",Agro Canal
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/568.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brasil Rural TV" tvg-logo="https://i.imgur.com/yVizStG.png" group-title="Canais Abertos",Brasil Rural TV
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1439.ts
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR" tvg-logo="https://i.imgur.com/bpRq9nZ.png" group-title="Canais Abertos",NBR
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/63.ts
+#EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV Câmara" tvg-logo="https://i.imgur.com/6Zj4ydi.png" group-title="Canais Abertos",TV Câmara
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/567.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="Rede Telecine HBO-Max",Telecine Premium HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/138.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Rede Telecine HBO-Max",Telecine Premium
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/18.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD Alternativo" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Rede Telecine HBO-Max",Telecine Premium HD Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1773.ts
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium Alternativo" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Rede Telecine HBO-Max",Telecine Premium Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2016.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="Rede Telecine HBO-Max",Telecine Action HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/141.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Rede Telecine HBO-Max",Telecine Action
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/22.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD Alternativo" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Rede Telecine HBO-Max",Telecine Action HD Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1776.ts
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action Alternativo" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Rede Telecine HBO-Max",Telecine Action Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2020.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="Rede Telecine HBO-Max",Telecine Touch HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/137.ts
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Rede Telecine HBO-Max",Telecine Touch
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/17.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD Alternativo" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Rede Telecine HBO-Max",Telecine Touch HD Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1772.ts
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch Alternativo" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Rede Telecine HBO-Max",Telecine Touch Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2015.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="Rede Telecine HBO-Max",Telecine Pipoca HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/139.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Rede Telecine HBO-Max",Telecine Pipoca
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/19.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD Alternativo" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Rede Telecine HBO-Max",Telecine Pipoca HD Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1774.ts
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca Alternativo" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Rede Telecine HBO-Max",Telecine Pipoca Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2017.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="Rede Telecine HBO-Max",Telecine Fun HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/140.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Rede Telecine HBO-Max",Telecine Fun
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/20.ts
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD Alternativo" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Rede Telecine HBO-Max",Telecine Fun HD Alternativo
+http://giantofthefuture.gleeze.com
