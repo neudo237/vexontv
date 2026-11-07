@@ -1,0 +1,21 @@
+REFERÊNCIAS PARA INVESTIGAÇÃO — PREMIERE
+Repositório: neudo237/vexontv
+
+Fontes enviadas para análise:
+1. IPTV HD Brasil (página antiga):
+https://iptvhdbrasil.blogspot.com/2017/05/lista-iptv-premiere.html?m=1
+
+2. Gist BrasilChannel:
+https://gist.github.com/BrasilChannel/77d80bf7b68011726d2a34ca9c6ad219
+
+3. Scribd:
+https://pt.scribd.com/document/808997586/25122025
+
+4. FileDropper:
+http://www.filedropper.com/playlist2
+
+STATUS:
+- As fontes acima são referências, não streams validados.
+- Não foram copiados endpoints privados, tokens ou credenciais de terceiros.
+- Nenhum endereço desta lista deve ser considerado funcional sem teste de reprodução e confirmação de autorização.
+- A playlist principal do projeto não foi alterada.
